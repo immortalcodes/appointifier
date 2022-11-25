@@ -1,0 +1,1 @@
+pip install faunadb telegram python_telegram_bot

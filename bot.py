@@ -8,7 +8,7 @@ import config
 
 
 TOKEN = config.Token
-URL = "https://api.telegram.org/bot{}/".format("5739149699:AAG91n82LrTr35jZ-7mPUCrWLecMRMMyy1o")
+URL = "https://api.telegram.org/bot{}/".format("5974216776:AAFt-06c24_r9CcsO6N4cCTVJNY5exJONOY")
 
 
 def get_url(url):
